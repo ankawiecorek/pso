@@ -1,0 +1,15 @@
+C:\Users\Ania\Desktop\PSO\PSO\bin\Release\PSO.exe.config
+C:\Users\Ania\Desktop\PSO\PSO\bin\Release\PSO.exe
+C:\Users\Ania\Desktop\PSO\PSO\bin\Release\PSO.pdb
+C:\Users\Ania\Desktop\PSO\PSO\obj\Release\PSO.csprojResolveAssemblyReference.cache
+C:\Users\Ania\Desktop\PSO\PSO\obj\Release\PSO.Function.resources
+C:\Users\Ania\Desktop\PSO\PSO\obj\Release\PSO.ImageForm.resources
+C:\Users\Ania\Desktop\PSO\PSO\obj\Release\PSO.Menu.resources
+C:\Users\Ania\Desktop\PSO\PSO\obj\Release\PSO.Properties.Resources.resources
+C:\Users\Ania\Desktop\PSO\PSO\obj\Release\PSO.csproj.GenerateResource.Cache
+C:\Users\Ania\Desktop\PSO\PSO\obj\Release\PSO.exe
+C:\Users\Ania\Desktop\PSO\PSO\obj\Release\PSO.pdb
+C:\Users\Ania\Desktop\PSO\PSO\bin\Release\PSO.exe.manifest
+C:\Users\Ania\Desktop\PSO\PSO\bin\Release\PSO.application
+C:\Users\Ania\Desktop\PSO\PSO\obj\Release\PSO.exe.manifest
+C:\Users\Ania\Desktop\PSO\PSO\obj\Release\PSO.application
